@@ -25,9 +25,9 @@ npm install
 ## Encarpetado Frontend
 
 Tasksyn/src
-  -/components    Componentes reutilizables
-  -/screens       Pantallas
-  -/api/cliente.ts  Api del proyecto
+ - /components    Componentes reutilizables
+ - /screens       Pantallas
+ - /api/cliente.ts  Api del proyecto
  - /store         Estado global (React Context)
  - /utils        Funciones auxiliares
  
