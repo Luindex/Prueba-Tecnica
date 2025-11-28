@@ -7,10 +7,10 @@ Esta prueba tiene como objetivo evaluar competencias en **React Native, TypeScri
 ---
 
 ## Requerimientos
-- Node.js >= 18
+- Node.js
+- React native y Typescript
 - Expo CLI >= 48
-- npm o yarn
-- Dispositivo móvil o emulador Android/iOS
+- npm 
 
 ---
 
