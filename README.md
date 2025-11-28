@@ -22,21 +22,21 @@ git clone git@github.com:Luindex/Prueba-Tecnica.git
 cd tasksync
 npm install
 
-##Encarpetado
-FRONTEND
+## Encarpetado Frontend
+
 Tasksyn/src
-  /components    Componentes reutilizables
-  /screens       Pantallas
-  /api/cliente.ts  Api del proyecto
-  /store         Estado global (React Context)
-  /utils        Funciones auxiliares
+  -/components    Componentes reutilizables
+  -/screens       Pantallas
+  -/api/cliente.ts  Api del proyecto
+ - /store         Estado global (React Context)
+ - /utils        Funciones auxiliares
  
-##Backend
-backend/server.js  Enpoint del proyecto
+## Backend
+-backend/server.js  Enpoint del proyecto
 
 
 ## Ejercicios Practicos
-/Ejercicios
+-/Ejercicios
 
 ## Preguntas Teoricas 
-/Preguntas Teoricas
+-/Preguntas Teoricas
